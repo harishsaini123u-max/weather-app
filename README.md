@@ -14,11 +14,8 @@ A simple weather app built using HTML, CSS, and JavaScript.
 - JavaScript
 - OpenWeather API
 
-## 📸 Preview
-(Add screenshot here)
-
 ## 🔗 Live Demo
-(Add GitHub Pages link later)
+https://harishsaini123u-max.github.io/weather-app/
 
 ## 👨‍💻 Author
 Harish Saini
